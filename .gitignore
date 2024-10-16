@@ -1,0 +1,8 @@
+bin/
+ Migrations/ 
+ obj/ 
+ gitignore/ 
+ LeaveManagement.csproj/
+  LeaveManagement.sln/
+   Models.cs/ 
+   Program.cs/
